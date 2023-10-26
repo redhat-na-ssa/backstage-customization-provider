@@ -1,0 +1,22 @@
+kind: Route
+apiVersion: route.openshift.io/v1
+metadata:
+  name: backstage-customization-provider
+  labels:
+    app.kubernetes.io/name: nodejs
+    app.openshift.io/runtime: nodejs
+    provider: nodeshift
+    version: 0.0.0
+spec:
+  host: ""
+  to:
+    kind: Service
+    name: backstage-customization-provider
+    weight: 100
+  port:
+    targetPort: http
+  wildcardPolicy: None
+  tls:
+    termination: edge
+    insecureEdgeTerminationPolicy: Allow
+    destinationCACertificate: ''
