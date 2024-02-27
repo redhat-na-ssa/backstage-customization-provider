@@ -27,12 +27,17 @@
   },
   {
     "title": "DEVELOPER TOOLS",
-    "isExpanded": true,
+    "isExpanded": false,
     "links": [
       {
         "iconUrl": "/homepage/icons/podman_logo.svg",
         "label": "Podman Desktop",
         "url": "https://podman-desktop.io"
+      },
+      {
+        "iconUrl": "https://odo.dev/img/logo.png",
+        "label": "odo - Fast, Iterative and Simplified container-based application development",
+        "url": "https://odo.dev"
       }
     ]
   },
