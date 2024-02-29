@@ -3,31 +3,6 @@
     {
       "timeline": [
         {
-          "moved": 0,
-          "ringId": "adopt",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Red Hat Developer Hub!!!"
-        }
-      ],
-      "key": "javascript",
-      "id": "javascript",
-      "title": "JavaScript",
-      "quadrant": "languages",
-      "links": [
-        {
-          "url": "https://www.javascript.com/",
-          "title": "Learn more"
-        },
-        {
-          "url": "https://www.typescriptlang.org/",
-          "title": "TypeScript"
-        }
-      ],
-      "description": "Excepteur **sint** occaecat *cupidatat* non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n```ts\nconst x = \"3\";\n```\n"
-    },
-    {
-      "timeline": [
-        {
           "moved": -1,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
@@ -454,6 +429,31 @@
       "id": "oracle",
       "title": "Oracle",
       "quadrant": "storage"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Red Hat Developer Hub!!!"
+        }
+      ],
+      "key": "devhub",
+      "id": "devhub",
+      "title": "Red Hat Developer Hub",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://developers.redhat.com/rhdh",
+          "title": "Learn more"
+        },
+        {
+          "url": "https://developers.redhat.com/rhdh",
+          "title": "Red Hat Developer Hub"
+        }
+      ],
+      "description": "Red Hat Developer Hub - Internal Developer Portals made easy!\n\n```ts\nconst x = \"3\";\n```\n"
     },
     {
       "timeline": [
