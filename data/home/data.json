@@ -1,12 +1,12 @@
 [
   {
-    "title": "3M",
-    "isExpanded": false,
+    "title": "Foot Locker",
+    "isExpanded": true,
     "links": [
       {
-        "iconUrl": "/homepage/icons/icons8/web.png",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/en/4/49/Foot_Locker_2020_Referee_Logo.svg",
         "label": "Website",
-        "url": "https://janus-idp.io/community"
+        "url": "https://www.footlocker.com"
       },
       {
         "iconUrl": "/homepage/icons/icons8/external-blog-copywriting-itim2101-lineal-itim2101.png",
@@ -27,7 +27,7 @@
   },
   {
     "title": "DEVELOPER TOOLS",
-    "isExpanded": false,
+    "isExpanded": true,
     "links": [
       {
         "iconUrl": "/homepage/icons/podman_logo.svg",
@@ -36,7 +36,7 @@
       },
       {
         "iconUrl": "https://odo.dev/img/logo.png",
-        "label": "odo - Fast, Iterative and Simplified container-based application development",
+        "label": "odo - Openshift Do CLI",
         "url": "https://odo.dev"
       }
     ]
